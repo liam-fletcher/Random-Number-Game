@@ -1,0 +1,14 @@
+
+h1  {
+position: sticky;
+top:0;
+font-size: 20px;
+padding:20px;
+ font-family: "Lucida Console", "Courier New", monospace;
+background: blue;
+color: lightgrey;
+font-weight: bold;
+text-align: center;
+border: 2px solid blue; 
+  margin: 35px;
+  }
